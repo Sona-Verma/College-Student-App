@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">College App</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">University has acquired transnational dimensions through student exchange and knowledge sharing programs with many foreign universities and has been acclaimed and honored at international forums for its brilliance in upholding the highest standards of education. With recognition from prestigious institutions, Graphic Era University is setting new benchmarks in education. It has taken big initiative in engineering programs by getting into Partnerships with Tata Technologies and IBM to create next age Engineering Professionals through Industry Collaborations. Graphic Era hosts Technology Business Incubator that provides support for technology-based entrepreneurship.</string>
+</resources>
